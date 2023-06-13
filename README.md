@@ -6,7 +6,7 @@ registration functionalities that enables users to perform CRUD operations
 on the information stored in DB.
 ```
 ## 🚀 Demo
-Please, check out a working  <b>👉 [LIVE DEMO](http://16.170.215.162:8080/taxi-service) 👈</b>
+Please, check out a working  <b>👉 [LIVE DEMO](http://13.48.85.241:8080/taxi-service/) 👈</b>
 
 
 ## 🎯 Features
